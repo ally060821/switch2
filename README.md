@@ -30,5 +30,5 @@ void loop() {
 }
 ```
 
-![dog]https://github.com/ally060821/switch2/blob/master/switch.jpg
+![dog](https://github.com/ally060821/switch2/blob/master/switch.jpg)
 
